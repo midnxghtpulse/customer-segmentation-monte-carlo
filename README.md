@@ -1,5 +1,7 @@
 # customer segmentation with clustering and monte carlo simulation
 
+> note: this is an academic project from a couple of months ago. it was one of my first attempts at combining clustering techniques with monte carlo simulation, so i'm keeping it here as part of my learning process.
+
 academic data analysis project focused on customer segmentation using unsupervised learning techniques and stability analysis.
 
 ## overview
